@@ -1,6 +1,6 @@
 
 # EX 4B Frog Jump - Dynamic Programming.
-## DATE:24/09/25
+## DATE:09.11.2025
 
 ## AIM:
 To write a Java program to for given constraints.
